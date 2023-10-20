@@ -68,7 +68,7 @@ To compile the provided Solidity code, navigate to the "Solidity Compiler" tab i
 
 After successful compilation, deploy the contract by visiting the "Deploy & Run Transactions" tab in the left-hand sidebar. Choose the "token" contract from the dropdown menu and click the "Deploy" button.
 
-Once deployed, interact with the contract by calling the "burn" or "mint" functions and providing the necessary parameters. You can find these functions in the left-hand sidebar under the "token" contract. Additionally, check the total balance by clicking on the "total balance" option.
+Once deployed, interact with the contract by calling the "burn" or "mint" functions and providing the necessary parameters. You can find these functions in the left-hand sidebar under the "token" contract. Additionally, check the total balance by clicking on the "Quantity" option.
 
 ## Authors
 
